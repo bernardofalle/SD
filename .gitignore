@@ -1,0 +1,5 @@
+genclass_doc/
+genclass.jar
+out/
+*.iml
+.idea
