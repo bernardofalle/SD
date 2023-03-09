@@ -3,3 +3,4 @@ genclass.jar
 out/
 *.iml
 .idea
+.DS_Store
